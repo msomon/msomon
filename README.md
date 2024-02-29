@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://sumon-ahamed.web.app](https://sumon-ahamed.web.app)
+- 👨‍💻 All of my projects are available at [https://sumon-ahamed.vercel.app)
 
 - 📫 How to reach me **Mdsumon123ahamed@gmail.com**
 
